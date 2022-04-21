@@ -30,9 +30,11 @@
   "esmodules": [
     "./scripts/init.js"
   ],
-  "dependencies": [],
-  "url": "",
+  "url": "https://github.com/EnneadGames/EG-QG-TG-Testing/blob/main/module.json",
   "manifest": "",
   "download": "",
   "manifestPlusVersion": "1.2.0"
+  "socket": true,
+  "compatibleCoreVersion": "0.7.9",
+  "minimumCoreVersion": "0.7.0"
 }
