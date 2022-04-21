@@ -8,7 +8,7 @@ Intro blurb about the module goes here
 
 To install this module automatically, copy this link 
 
-`https://github.com/EnneadGames/EG-QG-TG-Testing/blob/main/module.json`
+`https://raw.githubusercontent.com/EnneadGames/EG-QG-TG-Testing/main/module.json`
 
 Paste into the box in the "Install Modules" section
 
