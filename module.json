@@ -1,0 +1,38 @@
+{
+  "name": "theives-guild-name",
+  "title": "Theives Guild Name",
+  "description": "A simple test module to create a name for a thieves guild, based on the pdf \"Quick Generator - Thieves Guild Names\" by Ennead Games",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "9",
+  "author": "Ennead Games",
+  "authors": [
+    {
+      "name": "Ennead Games"
+    }
+  ],
+  "packs": [
+    {
+      "name": "rolltables",
+      "label": "Theives Guild Name",
+      "path": "/packs/rolltables.db",
+      "entity": "RollTable",
+      "type": "RollTable"
+    },
+    {
+      "name": "macros",
+      "label": "Theives Guild Name",
+      "path": "/packs/macros.db",
+      "entity": "Macro",
+      "type": "Macro"
+    }
+  ],
+  "esmodules": [
+    "./scripts/init.js"
+  ],
+  "dependencies": [],
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "manifestPlusVersion": "1.2.0"
+}
