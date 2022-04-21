@@ -30,7 +30,7 @@
   "esmodules": [
     "./scripts/init.js"
   ],
-  "url": "https://github.com/EnneadGames/EG-QG-TG-Testing/blob/main/module.json",
+  "url": "https://github.com/EnneadGames/EG-QG-TG-Testing",
   "manifest": "",
   "download": "",
   "manifestPlusVersion": "1.2.0"
