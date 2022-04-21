@@ -32,7 +32,7 @@
   ],
   "url": "https://github.com/EnneadGames/EG-QG-TG-Testing",
   "manifest": "https://github.com/EnneadGames/EG-QG-TG-Testing/module.json",
-  "download": "",
+  "download": "https://github.com/EnneadGames/EG-QG-TG-Testing/releases/download/testing/theives-guild-name-test.zip",
   "manifestPlusVersion": "1.2.0"
   "socket": true,
   "compatibleCoreVersion": "0.7.9",
